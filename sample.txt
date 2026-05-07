@@ -16,4 +16,4 @@ pulltest successed
 
 push test
 
-old data
+confriict new data
